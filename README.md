@@ -1,6 +1,8 @@
 # Robo_Bar
 Speech-Controlled Restaurant-Service Robot
 
+Date: 2017.12
+
 Course project of Introduction to Artificial Inteligence
 
 Development environment: webots R2018a on Linux
