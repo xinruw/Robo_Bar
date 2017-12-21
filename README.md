@@ -1,7 +1,7 @@
 # Robo_Bar
 Speech-Controlled Restaurant-Service Robot
 
-Date: 2017.12
+Finish time: 2017.12
 
 Course project of Introduction to Artificial Inteligence
 
